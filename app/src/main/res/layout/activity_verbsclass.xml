@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.english.test.app.verbsclass">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorPrimary"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/txt_v_baslik"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:background="@android:drawable/divider_horizontal_bright"
+            android:gravity="center"
+            android:text="VERBS" />
+
+        <TextView
+            android:id="@+id/dy1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/divider_horizontal_bright" />
+
+        <TextView
+            android:id="@+id/txt_v_soru"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/common_google_signin_btn_icon_dark_normal_background"
+            android:fontFamily="sans-serif-condensed"
+            android:foregroundGravity="center"
+            android:gravity="center"
+            android:text="aa"
+            android:textAlignment="center"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btn_v_a"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/common_google_signin_btn_icon_dark_normal_background"
+            android:fontFamily="sans-serif-condensed"
+            android:foregroundGravity="center" />
+
+        <Button
+            android:id="@+id/btn_v_b"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/common_google_signin_btn_icon_dark_normal_background"
+            android:fontFamily="sans-serif-condensed"
+            android:textAlignment="center" />
+
+        <Button
+            android:id="@+id/btn_v_c"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/common_google_signin_btn_icon_dark_normal_background"
+            android:fontFamily="sans-serif-condensed"
+            android:foregroundGravity="center"
+            android:textAlignment="center" />
+
+        <Button
+            android:id="@+id/btn_v_d"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/common_google_signin_btn_icon_dark_normal_background"
+            android:fontFamily="sans-serif-condensed"
+            android:foregroundGravity="center"
+            android:textAlignment="center" />
+
+        <Button
+            android:id="@+id/btn_v_e"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/common_google_signin_btn_icon_dark_normal_background"
+            android:fontFamily="sans-serif-condensed"
+            android:textAlignment="center" />
+
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/adViewv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            ads:adUnitId="ca-app-pub-5436381102879919/4135322767"
+            ads:adSize="SMART_BANNER"
+            xmlns:ads="http://schemas.android.com/apk/res-auto" />
+
+    </LinearLayout>
+</RelativeLayout>

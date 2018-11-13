@@ -1,0 +1,631 @@
+ kabul etmek	
+ ayný fikirde olmak	
+ izin vermek	
+ cevap vermek	
+ varmak	
+ soru sormak	
+ ödünç almak	
+ telefonla aramak	
+ taþýmak	
+ deðiþtirmek	
+ temizlemek	
+ kapatmak	
+ yardým etmek	
+ icat etmek	
+ davet etmek	
+ öldürmek	
+ öpmek	
+ yalamak	
+ yalan söylemek	
+ yaþamak	
+ bakmak	
+ sevmek	
+ hoþlanmak	
+ evlenmek	
+ ihtiyacý olmak	
+ teklif etmek	
+ boyamak	
+ oynamak	
+ tercih etmek	
+ hatýrlamak	
+ geri dönmek	
+ koklamak	
+ gülümsemek	
+ sigara içmek	
+ konuþmak	
+ dokunmak	
+ eðitmek	
+ kullanmak	
+ ziyan etmek	
+ yýkamak	
+ fýsýldamak	
+ vurmak	
+ baþlamak	
+ ýsýrmak	
+ üflemek	
+ kýrmak	
+ getirmek	
+ satýn almak	
+ yakalamak	
+ seçmek	
+ gelmek	
+ kesmek	
+ ölmek	
+ çizmek	
+ rüya görmek	
+ içmek	
+ araba sürmek	
+ yemek	
+ düþmek	
+ hissetmek	
+ bulmak	
+ unutmak	
+ elde etmek	
+ vermek	
+ gitmek	
+ yetiþtirmek	
+ sahip olmak	
+ duymak	
+ saklamak	
+ bilmek	
+ öðrenmek	
+ ayrýlmak	
+ yapmak	
+ ödemek	
+ koymak	
+ okumak	
+ yükselmek	
+ çalmak	
+ koþmak	
+ söylemek	
+ görmek	
+ satmak	
+ göndermek	
+ titremek	
+ parlamak	
+ göstermek	
+ þarký söylemek	
+ uyumak	
+ harcamak	
+ yüzmek	
+ almak	
+ yýrtmak	
+ söylemek	
+ düþünmek	
+ anlamak	
+ uyanmak	
+ giymek	
+ kanmak	
+ silmek	
+ aðlamak	
+  kabul etmek	
+  eklemek	
+  hayran olmak	
+  itiraf etmek	
+  tavsiye etmek	
+  karþýlamak	
+  ayný fikirde olmak	
+  izin vermek	
+  eðlendirmek	
+  duyurmak	
+  rahatsýz etmek	
+  cevap vermek	
+  özür dilemek	
+  gözükmek	
+  alkýþlamak	
+  memnun olmak	
+  onaylamak	
+  tartýþmak	
+  düzenlemek	
+  tutuklamak	
+  varmak	
+  sormak	
+  iliþtirmek	
+  saldýrmak	
+  giriþimde bulunmak	
+  katýlmak	
+  çekmek	
+  sakýnmak	
+  geriye gitmek	
+  piþirmek	
+  dengelemek	
+  yasaklamak	
+  vurmak/çarpmak	
+  sopayla vurmak	
+  banyo yapmak	
+  savaþmak	
+  özür dilemek	
+  davranmak	
+  ait olmak	
+  kutsamak	
+  körleþtirmek	
+  göz kýrpmak	
+  utançtan kýzarmak	
+  böbürlenmek	
+  kaynamak	
+  irkilmek	
+  bombalamak	
+  rezervasyon yapmak	
+  canýný sýkmak	
+  ödünç almak	
+  zýplamak	
+  reverans yapmak	
+  yumruklaþmak	
+  fren yapmak	
+  dallanmak	
+  nefes almak	
+  çürütmek	
+  fýrçalamak	
+  yanmak	
+  gömmek	
+  výzýldamak	
+  hesaplamak	
+  aramak	
+  kamp yapmak	
+  önemsemek	
+  taþýmak	
+  oymak	
+  neden olmak	
+  meydan okumak	
+  deðiþtirmek	
+  þarj etmek	
+  kovalamak	
+  aldatmak	
+  kontrol etmek	
+  tezahürat yapmak	
+  çiðnemek	
+  doðramak	
+  iddia etmek	
+  alkýþlamak	
+  temizlemek	
+  temizlemek	
+  tutturmak	
+  kapatmak	
+  yetiþtirmek/çalýþtýrmak	
+  biriktirmek	
+  renklendirmek	
+  taramak	
+  emir vermek	
+  iletiþim kurmak	
+  karþýlaþtýrmak	
+  yarýþmak	
+  yakýnmak	
+  tamamlamak	
+  konsantre olmak	
+  kaygýlandýrmak	
+  itiraf etmek	
+  kafasýný karýþtýrmak	
+  baðlamak	
+  hesaba katmak	
+  -den oluþmak	
+  içermek	
+  devam etmek	
+  kopyalamak	
+  düzeltmek	
+  öksürmek	
+  saymak	
+  örtmek	
+  çatlamak/çatlatmak	
+  gürültüyle çarpma	
+  emeklemek	
+  öbür tarafa geçmek	
+  ezmek	
+  aðlamak	
+  tedavi etmek	
+  bisiklet sürmek	
+  hasar vermek	
+  dansetmek	
+  cüret etmek	
+  aldatmak	
+  karar vermek	
+  dekore etmek	
+  gecikmek/geciktirmek	
+  zevk vermek	
+  teslim etmek	
+  baðlý olmak	
+  tanýmlamak	
+  terketmek	
+  layýk olmak	
+  mahvetmek	
+  tespit etmek	
+  geliþtirmek	
+  ayný fikirde olmamak	
+  gözden kaybolmak	
+  tasvip etmemek	
+  keþfetmek	
+  hoþlanmamak	
+  bölmek	
+  iki misli yapmak	
+  -den kuþkulanmak	
+  sürüklemek	
+  akýtmak/akmak	
+  rüya görmek/hayal kurmak	
+  giyinmek	
+  damlamak	
+  düþürmek	
+  boðulmak	
+  davul çalmak	
+  kurumak/kurutmak	
+  tozunu almak	
+  kazanmak	
+  eðitmek	
+  utandýrmak	
+  iþ vermek	
+  boþaltmak	
+  cesaretlendirmek	
+  bitirmek	
+  zevk almak	
+  girmek	
+  eðlendirmek	
+  kaçmak	
+  muayene etmek	
+  heyecanlandýrmak	
+  baðýþlamak	
+  egzersiz yapmak	
+  var olmak	
+  geniþletmek	
+  ummak/beklemek	
+  açýklamak	
+  patlamak	
+  eriþmek/yayýlmak	
+  yüzleþmek	
+  solmak	
+  baþarýsýz olmak	
+  baðlamak/tutturmak	
+  faks çekmek	
+  korkmak	
+  çitle çevirmek	
+  dosyalamak	
+  doldurmak	
+  film çekmek	
+  tutuþturmak/ateþ etmek	
+  (giysi) uymak	
+  sabitlemek/belirlemek	
+  birden parlamak	
+  batmadan yüzmek	
+  su basmak	
+  akmak	
+  çiçek açmak	
+  takip etmek	
+  kandýrmak	
+  zorlamak	
+  biçimlendirmek	
+  inþa etmek	
+  çerçevelemek	
+  korkutmak	
+  kýzartmak	
+  ýþýk vermek	
+  yapýþtýrmak	
+  kavramak	
+  rendelemek	
+  yaðlamak	
+  selamlamak/karþýlamak	
+  sýmsýký tutmak	
+  inlemek	
+  garanti vermek	
+  korumak	
+  tahmin etmek	
+  kýlavuzluk etmek	
+  çekiçle vurmak	
+  uzatmak	
+  baþa çýkmak/yönetmek	
+  asmak	
+  olmak	
+  zarar vermek	
+  nefret etmek	
+  dadanmak
+  baþý çekmek	
+  iyileþmek	
+  ýsýtmak	
+  yardým etmek	
+  hoplamak	
+  ümit etmek	
+  kucaklamak	
+  avlanmak	
+  acele etmek	
+  teþhis etmek	
+  hayal etmek	
+  etkilemek	
+  geliþtirmek	
+  içermek	
+  artmak	
+  etkilemek	
+  bilgilendirmek	
+  iðne yapmak	
+  incitmek/yaralamak	
+  talimat vermek	
+  niyet etmek	
+  ilgi uyandýrmak	
+  tanýþtýrmak	
+  bulmak/keþfetmek	
+  davet etmek	
+  kaþýmak	
+  hapsetmek	
+  sýkýþtýrmak/týkamak	
+  katýlmak	
+  þaka yapmak	
+  yargýlamak	
+  zýplamak	
+  tekmelemek	
+  öldürmek	
+  öpmek	
+  diz çökmek	
+  örmek	
+  vurmak	
+  etiketlemek	
+  iniþ yapmak	
+  sürmek	
+  gülmek	
+  (roket) fýrlatmak	
+  öðrenmek	
+  düzleþtirmek	
+  ruhsat vermek	
+  yalamak	
+  yalan söylemek	
+  aydýnlatmak	
+  hoþlanmak	
+  listelemek	
+  dinlemek	
+  yaþamak	
+  yüklemek	
+  kilitlemek	
+  bakmak	
+  sevmek	
+  yönetmek	
+  uygun adým yürümek	
+  iþaretlemek	
+  evlenmek	
+  eþleþtirmek	
+  çiftleþmek	
+  önemli olmak	
+  ölçmek	
+  erimek	
+  ezberlemek	
+  tamir etmek	
+  daðýtmak	
+  süt saðmak	
+  maden iþletmek	
+  özlemek/kaçýrmak	
+  karýþtýrmak	
+  taþýnmak	
+  karýþtýrmak	
+  saldýrýp soymak	
+  çoðalmak	
+  cinayet iþlemek	
+  çivilemek	
+  ad vermek	
+  ihtiyaç duymak	
+  yuva yapmak	
+  baþýný sallamak	
+  not etmek	
+  farkýna varmak	
+  numaralamak	
+  itaat etmek	
+  itiraz etmek	
+  incelemek	
+  elde etmek	
+  meydana gelmek	
+  gücendirmek	
+  teklif etmek	
+  açmak	
+  ýsmarlamak	
+  borcu olmak	
+  sahip olmak	
+  paket yapmak	
+  boyamak	
+  park etmek	
+  geçmek	
+  yapýþtýrmak	
+  hafifçe vurmak	
+  duraklamak	
+  kabuðunu soymak	
+  temsil etmek	
+  izin vermek	
+  telefon açmak	
+  seçmek/ayýrmak	
+  çimdiklemek	
+  güçten düþmek	
+  yerleþtirmek	
+  planlamak	
+  yerleþtirmek/ekmek	
+  oynamak	
+  memnun etmek	
+  iþaret etmek	
+  parlatmak/cilalamak	
+  sahip olmak	
+  postalamak	
+  doldurmak	
+  pratik yapmak	
+  dua etmek	
+  tercih etmek	
+  hazýrlamak	
+  takdim etmek/sunmak	
+  korumak/saklamak	
+  sýkýþtýrmak	
+  önlemek	
+  basmak	
+  üretmek	
+  programlamak	
+  söz vermek	
+  korumak	
+  saðlamak	
+  çekmek	
+  pompalamak	
+  yumruk atmak	
+  cezalandýrmak	
+  itmek	
+  soru sormak	
+  kuyruða girmek	
+  yarýþmak	
+  yaðmur yaðmak	
+  kaldýrmak	
+  ulaþmak	
+  farkýna varmak	
+  teslim almak	
+  tanýmak/takdir etmek	
+  kaydetmek	
+  azaltmak/indirmek	
+  yansýtmak	
+  reddetmek	
+  piþman olmak
+  reddetmek/atmak	
+  rahatlamak	
+  serbest býrakmak	
+  itimat etmek	
+  kalmak	
+  hatýrlamak	
+  hatýrlatmak	
+  çýkarmak/temizlemek	
+  tamir etmek	
+  tamir etmek	
+  eski yerine koymak	
+  karþýlýk vermek	
+  haber vermek	
+  üretmek	
+  rica etmek	
+  kurtarmak	
+  emekli olmak	
+  dönmek/geri vermek	
+  risk almak	
+  sallamak	
+  yuvarlamak	
+  harab etmek	
+  hükmetmek	
+  acele etmek	
+  yelken açmak	
+  hoþnut etmek	
+  kurtarmak	
+  testere ile kesmek	
+  korkutmak	
+  týrmalamak	
+  çýðlýk atmak	
+  vidalamak	
+  çiziktirmek	
+  fýrçalamak/ovalamak	
+  mühürlemek	
+  araþtýrmak	
+  ayýrmak	
+  hizmet etmek	
+  yerleþmek	
+  gölgelemek	
+  paylaþmak	
+  traþ olmak	
+  barýndýrmak	
+  þok etmek	
+  alýþveriþ yapmak	
+  omuz silkmek	
+  iç çekmek	
+  imzalamak	
+  iþaret vermek	
+  günah iþlemek	
+  kayak yapmak	
+  zýplamak/sekmek	
+  tokatlamak	
+  kaymak	
+  yavaþlamak	
+  koklamak	
+  gülümsemek	
+  sigara içmek	
+  aksýrmak	
+  burnunu çekmek/koklamak	
+  horlamak	
+  kar yaðmak	
+  ses çýkarmak	
+  esirgemek	
+  hecelemek	
+  dökmek	
+  berbat etmek	
+  püskürtmek	
+  lekelemek	
+  damgalamak	
+  dik dik bakmak	
+  baþlamak	
+  kalmak	
+  dümen kullanmak	
+  adým atmak	
+  dikiþ dikmek	
+  durmak	
+  depolamak	
+  kayýþla baðlamak	
+  güçlendirmek	
+  germek	
+  soymak	
+  okþamak	
+  doldurmak/týkmak	
+  baþarmak	
+  emmek	
+  ýstýrap çekmek	
+  tavsiye etmek	
+  uymak	
+  tedarik etmek	
+  desteklemek	
+  varsaymak/zannetmek	
+  þaþýrmak	
+  kuþatmak	
+  þüphelenmek	
+  askýya almak/asmak	
+  deðiþtirmek/düðmeye basmak	
+  konuþmak	
+  kullanmak	
+  tadýna bakmak	
+  alay etmek	
+  telefon etmek	
+  ayartmak	
+  çok korkutmak	
+  test etmek	
+  teþekkür etmek	
+  tik koymak	
+  baðlamak	
+  zamanlamak	
+  bahþiþ vermek	
+  yormak/yorulmak	
+  dokunmak	
+  dolaþmak	
+  ticaret yapmak	
+  eðitmek	
+  nakletmek	
+  tuzaða düþürmek	
+  seyahat etmek	
+  muamele etmek	
+  titremek	
+  aldatmak	
+  çelme takmak	
+  týrýs gitmek	
+  rahatsýz etmek	
+  güvenmek	
+  denemek	
+  þiddetle çekmek	
+  dönmek	
+  bükmek/kývýrmak	
+  daktilo ile yazmak	
+  soyunmak	
+  birleþmek/birleþtirmek	
+  kilidini açmak	
+  (bavul) açmak	
+  kullanmak	
+  ziyaret etmek	
+  beklemek	
+  yürümek	
+  istemek	
+  ýsýnmak/heyecanlandýrmak	
+  uyarmak	
+  yýkamak	
+  ziyan etmek	
+  seyretmek	
+  sulamak	
+  sallamak/sallanmak	
+  tartmak/çekmek	
+  hoþ karþýlamak	
+  fýsýldamak	
+  ýslýk çalmak	
+  göz kýrpmak	
+  silmek	
+  dilemek	
+  hayret etmek	
+  çalýþmak	
+  endiþelenmek	
+  güreþmek	
+  esnemek	
+  haykýrmak	
+  fermuar açmak/kapamak	
+  zum yapmak 	
